@@ -2,4 +2,4 @@
 
 https://naloyka.github.io/DnD/
 
-https://ci.appveyor.com/api/projects/status/nra9txpl1yvhu6sn/branch/master
+[![Build status](https://ci.appveyor.com/api/projects/status/nra9txpl1yvhu6sn?svg=true)](https://ci.appveyor.com/project/Naloyka/dnd)
